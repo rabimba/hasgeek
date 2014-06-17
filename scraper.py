@@ -29,5 +29,5 @@ def scrape_content(url):
             save_data(job, jobs)
  
 # Let's get started
-src = 'http://jobs.hasgeek.in'
+src = 'https://hasjob.co'
 scrape_content(src)
